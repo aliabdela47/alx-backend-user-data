@@ -1,2 +1,1 @@
-# alx-backend-user-data
-alx-backend-user-data Repository for Backend Development Session
+This is Personal Data Project
